@@ -8,6 +8,7 @@ public class DiGui {
 		int c = JieChen(n);
 		System.out.println(b);
 		System.out.println(c);
+		
 
 	}
 	public static int sum(int n){
